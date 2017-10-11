@@ -1,0 +1,6 @@
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\bin\Debug\RecipeConverter.exe.config
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\bin\Debug\RecipeConverter.exe
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\bin\Debug\RecipeConverter.pdb
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\obj\Debug\RecipeConverter.csprojResolveAssemblyReference.cache
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\obj\Debug\RecipeConverter.exe
+c:\users\stack\documents\visual studio 2015\Projects\RecipeConverter\RecipeConverter\obj\Debug\RecipeConverter.pdb
